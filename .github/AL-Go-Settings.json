@@ -11,7 +11,7 @@
   ],
   "$schema": "https://raw.githubusercontent.com/microsoft/AL-Go-Actions/v9.1/.Modules/settings.schema.json",
   "type": "PTE",
-  "templateUrl": "https://github.com/RolandCorporation/AL-Go-PTE@roland",
+  "templateUrl": "https://github.com/RolandCorporation/AL-Go-PTE@main",
   "useCompilerFolder": true,
   "environments": [ "EU_QA" ],
   "country": "base",
