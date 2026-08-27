@@ -1,4 +1,7 @@
 {
+  "$schema": "https://raw.githubusercontent.com/microsoft/AL-Go-Actions/v9.2/.Modules/settings.schema.json",
+  "type": "PTE",
+  "templateUrl": "https://github.com/RolandCorporation/AL-Go-PTE@main",
   "ConditionalSettings": [
     {
       "workflows": ["Update AL-Go System Files"],
@@ -9,9 +12,6 @@
       }
     }
   ],
-  "$schema": "https://raw.githubusercontent.com/microsoft/AL-Go-Actions/v9.1/.Modules/settings.schema.json",
-  "type": "PTE",
-  "templateUrl": "https://github.com/RolandCorporation/AL-Go-PTE@main",
   "useCompilerFolder": true,
   "githubRunner": "self-hosted",
   "githubRunnerShell": "powershell",
