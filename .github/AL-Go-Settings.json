@@ -43,7 +43,7 @@
   },
    "DeployToEUPROD": {
     "EnvironmentType": "SaaS",
-    "EnvironmentName": "US_QA",
+    "EnvironmentName": "EU_QA",
     "Branches": [
       "main"
     ],
