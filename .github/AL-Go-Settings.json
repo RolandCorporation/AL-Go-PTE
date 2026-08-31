@@ -18,21 +18,6 @@
   "githubRunner": "self-hosted",
   "githubRunnerShell": "powershell",
   "runs-on": "windows-latest",
-  "environments": [
-    "EUQA"
-  ],
-  "DeployToEUQA": {
-    "EnvironmentType": "SaaS",
-    "EnvironmentName": "EU_DEV",
-    "Branches": [
-      "main"
-    ],
-    "projects": "*",
-    "SyncMode": "Add",
-    "Scope": "PTE",
-    "ContinuousDeployment": false,
-    "dependencyInstallMode": "install"
-  },
   "country": "base",
   "repoVersion": "28.3",
   "artifact": "//28.3//first",
