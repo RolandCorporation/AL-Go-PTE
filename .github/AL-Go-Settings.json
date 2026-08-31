@@ -38,7 +38,7 @@
   "artifact": "//28.3//first",
   "failOn": "none",
   "updateDependencies": false,
-  "versioningStrategy": 3,
+  "versioningStrategy": 18,
   "generateDependencyArtifact": true,
   "CICDPushBranches": [
     "main",
