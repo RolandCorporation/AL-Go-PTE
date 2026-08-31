@@ -50,7 +50,7 @@
     "projects": "*",
     "SyncMode": "Add",
     "Scope": "PTE",
-    "ContinuousDeployment": true,
+    "ContinuousDeployment": false,
     "dependencyInstallMode": "install"
   },
    "DeployToUSQA": {
