@@ -41,6 +41,18 @@
     "ContinuousDeployment": true,
     "dependencyInstallMode": "install"
   },
+   "DeployToEUPROD": {
+    "EnvironmentType": "SaaS",
+    "EnvironmentName": "US_QA",
+    "Branches": [
+      "main"
+    ],
+    "projects": "*",
+    "SyncMode": "Add",
+    "Scope": "PTE",
+    "ContinuousDeployment": true,
+    "dependencyInstallMode": "install"
+  },
    "DeployToUSQA": {
     "EnvironmentType": "SaaS",
     "EnvironmentName": "US_DEV",
